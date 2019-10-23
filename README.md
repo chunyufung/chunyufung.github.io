@@ -54,3 +54,4 @@ git reset
 7. 回退版本
 ```
 git reset --hard +version
+```
